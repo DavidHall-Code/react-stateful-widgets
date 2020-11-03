@@ -20,3 +20,4 @@ render(
   ,
   document.querySelector('#root')
 );
+// set up for sections
